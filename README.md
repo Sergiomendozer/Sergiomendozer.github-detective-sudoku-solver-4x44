@@ -1,1 +1,1 @@
-# Sergiomendozer.github-detective-sudoku-solver-4x44
+# Sergiomendozer.github-detective-sudoku-solver-4x4
